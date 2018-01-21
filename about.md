@@ -4,10 +4,11 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+Austin Atchley is a Plan II and Computer Science student at the University of
+Texas at Austin. He expects to graduate in May 2020.
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+<p class="message">
+  Email: <a style="padding-left:2.00em;" href="mailto:austinatchley@gmail.com">austinatchley@gmail.com</a>
+  <br>
+  GitHub: <a style="padding-left:1.25em;" href="https://github.com/austinatchley">github.com/austinatchley</a>
+</p>
